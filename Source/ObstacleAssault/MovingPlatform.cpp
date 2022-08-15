@@ -16,7 +16,7 @@ void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
 
-	MyInt = 9;
+	MyInt = 10;
 
 	APlusB = InputA + InputB;
 
